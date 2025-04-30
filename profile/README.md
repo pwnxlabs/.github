@@ -26,7 +26,7 @@ All content provided here is intended for **educational and research purposes on
 
 ## 🤝 Contributing
 
-Contributions are welcome from those who share our interest in understanding how systems work and improving tooling for developers. Please read our [contributing guidelines](CONTRIBUTING.md) before submitting pull requests.
+Contributions are welcome from those who share our interest in understanding how systems work and improving tooling for developers. Please read our [contributing guidelines](/CONTRIBUTING.md) before submitting pull requests.
 
 ---
 
